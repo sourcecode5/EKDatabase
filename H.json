@@ -1,0 +1,14 @@
+{
+    "AvailableVersions": ["H"],
+    "WeaponList": [
+        {
+            "WeaponName": "[ 초심자 ] [ 조잡한 나무검 ]",
+            "WeaponGroup": "전직무기",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.5,0.45,0.4,0.35,0.3,0.25],
+            "RightCoolDown": [0.0,0.0,0.0,0.0,0.0,3.0],
+            "CoolDownGroup": "jojapstick"
+        }
+    ]
+}
