@@ -10,6 +10,69 @@
             "LeftCoolDown": [0.75,0.7,0.65,0.6,0.55,0.5],
             "RightCoolDown": [0.0,0.0,0.0,0.0,0.0,3.0],
             "CoolDownGroup": "jojapstick"
+        },
+        {
+            "WeaponName": "[ 🌿 ] [ 생존의 걸음 ]",
+            "WeaponGroup": "무기",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [3.0],
+            "CoolDownGroup": "walkofsurvival"
+        },
+        {
+            "WeaponName": "[ 🌿 ] [ 분노의 돌진 ]",
+            "WeaponGroup": "무기",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [5.0],
+            "CoolDownGroup": "dashofanger"
+        },
+        {
+            "WeaponName": "[ 🌿 ] [ 복수의 벌침 ]",
+            "WeaponGroup": "무기",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [8.0],
+            "CoolDownGroup": "stingofrevenge"
+        },
+        {
+            "WeaponName": "[ 🌿 ] [ 슬라임 군단 ]",
+            "WeaponGroup": "무기",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [6.0],
+            "CoolDownGroup": "slimearmy"
+        },
+        {
+            "WeaponName": "[ 🌿 ] [ 슬라임 구체 ]",
+            "WeaponGroup": "무기",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [5.0],
+            "CoolDownGroup": "slimebullet"
+        },
+        {
+            "WeaponName": "[ 🌿 ] [ 포자 폭탄 ]",
+            "WeaponGroup": "무기",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [8.0],
+            "CoolDownGroup": "sporebomb"
+        },
+        {
+            "WeaponName": "[ 🌿 ] [ 그림자 손 ]",
+            "WeaponGroup": "무기",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [8.0],
+            "CoolDownGroup": "shadowhand"
         }
     ]
 }
